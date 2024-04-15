@@ -1,0 +1,76 @@
+########################################
+# Program: matcher
+# Rundate: Sat 13 Apr 2024 07:46:58
+# Commandline: matcher
+#    -auto
+#    -stdout
+#    -asequence emboss_matcher-I20240413-074550-0535-34076947-p1m.asequence
+#    -bsequence emboss_matcher-I20240413-074550-0535-34076947-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 16
+#    -gapextend 4
+#    -alternatives 1
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: c205211702-205142505
+# 2: c506965-473262
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 413
+# Identity:     259/413 (62.7%)
+# Similarity:   259/413 (62.7%)
+# Gaps:          23/413 ( 5.6%)
+# Score: 619
+# 
+#
+#=======================================
+
+c205211702-20  23894 CAGGCCAACTGAGCTGCATTTCCTTCCCACCTAAGGAAGAGAAGTACCTC  23943
+                     ||||.||.||.||||||||.||.|||||.|.|.||||.|||.||||.||.
+c506965-47326  10691 CAGGTCAGCTCAGCTGCATCTCGTTCCCGCGTCAGGATGAGGAGTATCTG  10740
+
+c205211702-20  23944 CAGCAGATTGTGGACTGCCTCCCTTGCATACTGATCCTCGGCCAGGATTG  23993
+                     |||.|..|.||...|.||..|||.|.|||.||.|||||.||||||||.||
+c506965-47326  10741 CAGAATGTGGTCAGCAGCGCCCCCTACATCCTCATCCTGGGCCAGGACTG  10790
+
+c205211702-20  23994 TAACGTCAAGTGCCAGCTGTTGAATCTGCTGTTGGGGGTGCAGGTGCTTC  24043
+                     .|.||.|...|.|||||||.|.||....|||.||||.|.| |||..|.||
+c506965-47326  10791 CAGCGCCCGCTACCAGCTGCTCAACTGCCTGCTGGGCGAG-AGGCTCCTC  10839
+
+c205211702-20  24044 CCAC-----CACCAAGCTGG--------GCAGTGAGGAGAGC------TG  24074
+                     ||.|     |...|.||.||        ||.|.|.||||.||      ||
+c506965-47326  10840 CCCCTGGGGCCGGAGGCGGGCGGGGCCTGCGGCGCGGAGGGCGGGGCTTG  10889
+
+c205211702-20  24075 TAAGCTTCGGCGCCTCCGCTTCACCTATGGGACTCAGACTCGGGTCAGCC  24124
+                     ...||..|||...||..|.||||||.|.||....|||||.||..|.||||
+c506965-47326  10890 CCGGCGGCGGAAGCTGTGTTTCACCCACGGCCGGCAGACGCGCCTGAGCC  10939
+
+c205211702-20  24125 TGGCGCTCCCTGGACAGTATGAACTAGTGCACACGCTGGTTGCTCATCAG  24174
+                     ||||.||.||.|||||||||||.||.|||||...|||||..||.||....
+c506965-47326  10940 TGGCTCTTCCGGGACAGTATGAGCTGGTGCATCAGCTGGCGGCCCACTGC  10989
+
+c205211702-20  24175 GGCAACTGGGAGACCATCCCTGAGGAGGATCTGGAGGTCCAAGAGAACAA  24224
+                     ||...||||||.||..|.||.....||||.||||||.||||.|||..|  
+c506965-47326  10990 GGGCGCTGGGACACGGTGCCCCGACAGGACCTGGAGATCCAGGAGTGC--  11037
+
+c205211702-20  24225 TGAGGATGCTGCTCATGTTTTAGCGGAACTGGAGGTAACGATGCACCATG  24274
+                      ||.|||.|.||.||....||.||.||.||||||.|.|||.|.||.|||.
+c506965-47326  11038 -GAAGATCCGGCGCAGCGATTGGCCGAGCTGGAGATCACGCTCCATCATA  11086
+
+c205211702-20  24275 CTCTCTTACAGGT  24287
+                     |.||..|.|||||
+c506965-47326  11087 CACTGCTGCAGGT  11099
+
+
+#---------------------------------------
+#---------------------------------------
