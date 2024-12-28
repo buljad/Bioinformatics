@@ -1,0 +1,79 @@
+HETATM    1  CAC FLC A 710     -19.983 -41.376   4.331  0.94114.65           C  
+HETATM    2  CA  FLC A 710     -21.403 -41.604   3.816  0.94124.35           C  
+HETATM    3  CB  FLC A 710     -22.074 -40.326   3.314  0.94126.56           C  
+HETATM    4  CBC FLC A 710     -22.805 -39.645   4.469  0.94113.10           C  
+HETATM    5  CG  FLC A 710     -23.095 -40.651   2.223  0.94125.76           C  
+HETATM    6  CGC FLC A 710     -23.068 -42.105   1.750  0.94125.63           C  
+HETATM    7  OA1 FLC A 710     -19.256 -40.490   3.810  0.94111.45           O  
+HETATM    8  OA2 FLC A 710     -19.539 -42.080   5.276  0.94109.00           O1-
+HETATM    9  OB1 FLC A 710     -23.961 -39.178   4.288  0.94 97.69           O  
+HETATM   10  OB2 FLC A 710     -22.255 -39.547   5.598  0.94107.34           O1-
+HETATM   11  OG1 FLC A 710     -22.266 -42.460   0.846  0.94126.88           O  
+HETATM   12  OG2 FLC A 710     -23.855 -42.947   2.258  0.94124.57           O1-
+HETATM   13  OHB FLC A 710     -21.104 -39.456   2.802  0.94126.14           O  
+HETATM   14  CAC FLC A 711     -19.933 -37.414  17.225  0.83118.92           C  
+HETATM   15  CA  FLC A 711     -20.523 -36.170  17.885  0.83118.24           C  
+HETATM   16  CB  FLC A 711     -21.547 -35.469  16.993  0.83106.39           C  
+HETATM   17  CBC FLC A 711     -21.439 -33.956  17.181  0.83 90.11           C  
+HETATM   18  CG  FLC A 711     -22.964 -35.941  17.329  0.83103.61           C  
+HETATM   19  CGC FLC A 711     -23.254 -36.108  18.822  0.83100.39           C  
+HETATM   20  OA1 FLC A 711     -20.495 -37.919  16.218  0.83116.40           O  
+HETATM   21  OA2 FLC A 711     -18.888 -37.940  17.692  0.83114.44           O  
+HETATM   22  OB1 FLC A 711     -20.843 -33.259  16.319  0.83 79.30           O  
+HETATM   23  OB2 FLC A 711     -21.942 -33.403  18.194  0.83 80.63           O  
+HETATM   24  OG1 FLC A 711     -23.018 -37.202  19.401  0.83100.22           O  
+HETATM   25  OG2 FLC A 711     -23.748 -35.152  19.475  0.83100.63           O  
+HETATM   26  OHB FLC A 711     -21.270 -35.776  15.654  0.83104.85           O  
+HETATM   27  CAC FLC A 712     -12.037 -34.387   9.197  0.81 99.69           C  
+HETATM   28  CA  FLC A 712     -12.458 -33.518  10.380  0.81102.18           C  
+HETATM   29  CB  FLC A 712     -13.936 -33.674  10.735  0.81106.47           C  
+HETATM   30  CBC FLC A 712     -14.771 -32.725   9.876  0.81 95.43           C  
+HETATM   31  CG  FLC A 712     -14.131 -33.317  12.208  0.81108.59           C  
+HETATM   32  CGC FLC A 712     -15.505 -33.713  12.747  0.81 96.87           C  
+HETATM   33  OA1 FLC A 712     -12.663 -34.324   8.106  0.81 99.13           O  
+HETATM   34  OA2 FLC A 712     -11.057 -35.169   9.313  0.81 95.95           O  
+HETATM   35  OB1 FLC A 712     -15.116 -33.062   8.713  0.81 86.58           O  
+HETATM   36  OB2 FLC A 712     -15.112 -31.602  10.332  0.81 85.76           O  
+HETATM   37  OG1 FLC A 712     -15.999 -34.835  12.461  0.81 90.28           O  
+HETATM   38  OG2 FLC A 712     -16.144 -32.913  13.481  0.81 79.11           O  
+HETATM   39  OHB FLC A 712     -14.341 -34.996  10.505  0.81103.27           O  
+CONECT    1    2    7    7    8
+CONECT    2    1    3
+CONECT    3    2    4    5   13
+CONECT    4    3    9    9   10
+CONECT    5    3    6
+CONECT    6    5   11   11   12
+CONECT    7    1    1
+CONECT    8    1
+CONECT    9    4    4
+CONECT   10    4
+CONECT   11    6    6
+CONECT   12    6
+CONECT   13    3
+CONECT   14   15   20   21
+CONECT   15   14   16
+CONECT   16   15   17   18   26
+CONECT   17   16   22   23
+CONECT   18   16   19
+CONECT   19   18   24   25
+CONECT   20   14
+CONECT   21   14
+CONECT   22   17
+CONECT   23   17
+CONECT   24   19
+CONECT   25   19
+CONECT   26   16
+CONECT   27   28   33   34
+CONECT   28   27   29
+CONECT   29   28   30   31   39
+CONECT   30   29   35   36
+CONECT   31   29   32
+CONECT   32   31   37   38
+CONECT   33   27
+CONECT   34   27
+CONECT   35   30
+CONECT   36   30
+CONECT   37   32
+CONECT   38   32
+CONECT   39   29
+END
